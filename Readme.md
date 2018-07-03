@@ -6,9 +6,9 @@
 <h2><a href="#table-of-contents" aria-hidden="true" class="anchor" id="user-content-table-of-contents"></a>Table of Contents</h2>
 
 <ul>
-<li><a href="#django">Step 1 : Create Django Project</a></li>
-<li><a href="#react">Step 2 : Create React App</a></li>
-<li><a href="#configure">Step 3 : Configure Django Settings.py, Urls.py and Manage.py</a></li>
+<li><a href="#django">Create Django Project</a></li>
+<li><a href="#react">Create React App</a></li>
+<li><a href="#configure">Configure Django Settings.py, Urls.py and Manage.py</a></li>
 </ul>
 
 <h2><a href="#django" aria-hidden="true" class="anchor" id="user-content-what"></a>Step 1 : Create Django Projec</h2>
